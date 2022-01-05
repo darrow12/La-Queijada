@@ -15,3 +15,14 @@
   --dark-gray: #2E2E2E;
 }
 
+.red {
+  color: var(--red);
+}
+
+.yellow {
+  color: var(--yellow);
+}
+
+.green {
+  color: var(--green);
+}

@@ -1,0 +1,12 @@
+header {
+  width: 100vw;
+  height: 31.25rem;
+  background: linear-gradient(0deg, rgba(46, 46, 46, 0.6), rgba(46, 46, 46, 0.6)), url(../../public/images/pizza-background.jpg) no-repeat center / cover;
+}
+
+h1 {
+  padding: 189px;
+  text-align: center;
+  font-size: 95px;
+  color: #FFFFFF;
+}
