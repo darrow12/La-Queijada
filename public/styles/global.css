@@ -15,6 +15,10 @@
   --dark-gray: #2E2E2E;
 }
 
+
+
+/* Colored letters */
+
 .red {
   color: var(--red);
 }
@@ -25,4 +29,14 @@
 
 .green {
   color: var(--green);
+}
+
+
+/* Images around the page */
+
+.plant {
+  position: absolute;
+  top: 460.9px;
+  left: -1px;
+  filter: drop-shadow(1px 5px 10px rgba(0, 0, 0, 0.24));
 }

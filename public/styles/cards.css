@@ -1,0 +1,191 @@
+.pizzas-to-buy {
+  width: 70rem;
+  height: 21.875rem;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+  margin: 0 auto;
+}
+
+/* LA CUMA */
+
+.la-cuma {
+  width: 256px;
+  height: 275px;
+  border-radius: 25px;
+  background-color: var(--pink);
+  text-align: center;
+}
+
+.la-cuma > img {
+  position: relative;
+  top: -50px;
+}
+
+.la-cuma > h4 {
+  margin-bottom: 8px;
+  font-size: 18px;
+}
+
+.la-cuma > span {
+  width: 180px;
+  height: 60px;
+  color: var(--gray);
+  font-size: 14px;
+  font-weight: 300;
+  line-height: 20px;
+}
+
+.la-cuma > h3 {
+  margin-top: 28px;
+  margin-bottom: 24px;
+  font-size: 32px;
+}
+
+.la-cuma button {
+  background: #FFA200;
+  border-radius: 25px;
+  padding: 8px 32px 8px 32px;
+  border: none;
+  font-weight: 600;
+  font-size: 12px;
+}
+
+
+
+/* LA MENTA */
+
+.la-menta {
+  width: 256px;
+  height: 275px;
+  border-radius: 25px;
+  background-color: var(--pink);
+  text-align: center;
+}
+
+.la-menta > img {
+  position: relative;
+  top: -50px;
+}
+
+.la-menta > h4 {
+  margin-bottom: 8px;
+  font-size: 18px;
+}
+
+.la-menta > span {
+  width: 180px;
+  height: 60px;
+  color: var(--gray);
+  font-size: 14px;
+  font-weight: 300;
+  line-height: 20px;
+}
+
+.la-menta > h3 {
+  margin-top: 28px;
+  margin-bottom: 24px;
+  font-size: 32px;
+}
+
+.la-menta button {
+  background: #FFA200;
+  border-radius: 25px;
+  padding: 8px 32px 8px 32px;
+  border: none;
+  font-weight: 600;
+  font-size: 12px;
+}
+
+
+/* LA BANA */
+
+.la-bana {
+  width: 256px;
+  height: 275px;
+  border-radius: 25px;
+  background-color: var(--pink);
+  text-align: center;
+}
+
+.la-bana > img {
+  position: relative;
+  top: -50px;
+}
+
+.la-bana > h4 {
+  margin-bottom: 8px;
+  font-size: 18px;
+}
+
+.la-bana > span {
+  width: 180px;
+  height: 60px;
+  color: var(--gray);
+  font-size: 14px;
+  font-weight: 300;
+  line-height: 20px;
+}
+
+.la-bana > h3 {
+  margin-top: 28px;
+  margin-bottom: 24px;
+  font-size: 32px;
+}
+
+.la-bana button {
+  background: #FFA200;
+  border-radius: 25px;
+  padding: 8px 32px 8px 32px;
+  border: none;
+  font-weight: 600;
+  font-size: 12px;
+}
+
+
+
+/* LA TOCA */
+
+
+.la-toca {
+  width: 256px;
+  height: 275px;
+  border-radius: 25px;
+  background-color: var(--pink);
+  text-align: center;
+}
+
+.la-toca > img {
+  position: relative;
+  top: -50px;
+}
+
+.la-toca > h4 {
+  margin-bottom: 8px;
+  font-size: 18px;
+}
+
+.la-toca > span {
+  width: 180px;
+  height: 60px;
+  color: var(--gray);
+  font-size: 14px;
+  font-weight: 300;
+  line-height: 20px;
+}
+
+.la-toca > h3 {
+  margin-top: 28px;
+  margin-bottom: 24px;
+  font-size: 32px;
+}
+
+.la-toca button {
+  background: #FFA200;
+  border-radius: 25px;
+  padding: 8px 32px 8px 32px;
+  border: none;
+  font-weight: 600;
+  font-size: 12px;
+}
