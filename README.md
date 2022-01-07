@@ -56,7 +56,7 @@ The Layout was developed by <a href="https://www.instagram.com/iuricode/">Iuri S
 
 Want to see how the project is doing? It's already on the air!
 
-Click on the link to see: https://darrow12.github.io/La-Queijada/src/pages/index.html
+Click on the link to see: https://darrow12.github.io/La-Queijada/src/pages/
 
 <br>
 
