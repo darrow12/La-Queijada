@@ -6,11 +6,13 @@
   align-items: center;
   justify-content: space-between;
   margin: 0 auto;
+  margin-bottom: 193px;
 }
 
 /* LA CUMA */
 
 .la-cuma {
+  position: relative;
   width: 256px;
   height: 275px;
   border-radius: 25px;
@@ -20,10 +22,11 @@
 
 .la-cuma > img {
   position: relative;
-  top: -50px;
+  top: -55px;
 }
 
 .la-cuma > h4 {
+  margin-top: -35px;
   margin-bottom: 8px;
   font-size: 18px;
 }
@@ -66,10 +69,11 @@
 
 .la-menta > img {
   position: relative;
-  top: -50px;
+  top: -55px;
 }
 
 .la-menta > h4 {
+  margin-top: -35px;
   margin-bottom: 8px;
   font-size: 18px;
 }
@@ -111,10 +115,11 @@
 
 .la-bana > img {
   position: relative;
-  top: -50px;
+  top: -55px;
 }
 
 .la-bana > h4 {
+  margin-top: -35px;
   margin-bottom: 8px;
   font-size: 18px;
 }
@@ -158,10 +163,11 @@
 
 .la-toca > img {
   position: relative;
-  top: -50px;
+  top: -55px;
 }
 
 .la-toca > h4 {
+  margin-top: -35px;
   margin-bottom: 8px;
   font-size: 18px;
 }
