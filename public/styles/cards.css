@@ -6,15 +6,15 @@
   align-items: center;
   justify-content: space-between;
   margin: 0 auto;
-  margin-bottom: 193px;
+  margin-bottom: 12.0625rem;
 }
 
 /* LA CUMA */
 
 .la-cuma {
   position: relative;
-  width: 256px;
-  height: 275px;
+  width: 16rem;
+  height: 17.1875rem;
   border-radius: 25px;
   background-color: var(--pink);
   text-align: center;
@@ -22,37 +22,34 @@
 
 .la-cuma > img {
   position: relative;
-  top: -55px;
+  top: -3.4375rem;
 }
 
 .la-cuma > h4 {
-  margin-top: -35px;
-  margin-bottom: 8px;
-  font-size: 18px;
+  margin-top: -2.1875rem;
+  margin-bottom: 0.5rem;
+  font-size: 1.125rem;
 }
 
 .la-cuma > span {
-  width: 180px;
-  height: 60px;
+  width: 11.25rem;
+  height: 3.75rem;
   color: var(--gray);
-  font-size: 14px;
+  font-size: 0.875rem;
   font-weight: 300;
-  line-height: 20px;
+  line-height: 1.25rem;
 }
 
 .la-cuma > h3 {
-  margin-top: 28px;
-  margin-bottom: 24px;
-  font-size: 32px;
+  margin-top: 1.75rem;
+  margin-bottom: 1.5rem;
+  font-size: 2rem;
 }
 
-.la-cuma button {
-  background: #FFA200;
-  border-radius: 25px;
-  padding: 8px 32px 8px 32px;
-  border: none;
+.la-cuma > button { 
+  padding: 8px 2rem;
   font-weight: 600;
-  font-size: 12px;
+  font-size: 0.75rem;
 }
 
 
@@ -60,8 +57,8 @@
 /* LA MENTA */
 
 .la-menta {
-  width: 256px;
-  height: 275px;
+  width: 16rem;
+  height: 17.1875rem;
   border-radius: 25px;
   background-color: var(--pink);
   text-align: center;
@@ -69,45 +66,42 @@
 
 .la-menta > img {
   position: relative;
-  top: -55px;
+  top: -3.4375rem;
 }
 
 .la-menta > h4 {
-  margin-top: -35px;
-  margin-bottom: 8px;
-  font-size: 18px;
+  margin-top: -2.1875rem;
+  margin-bottom: 0.5rem;
+  font-size: 1.125rem;
 }
 
 .la-menta > span {
-  width: 180px;
-  height: 60px;
+  width: 11.25rem;
+  height: 3.75rem;
   color: var(--gray);
-  font-size: 14px;
+  font-size: 0.875rem;
   font-weight: 300;
-  line-height: 20px;
+  line-height: 1.25rem;
 }
 
 .la-menta > h3 {
-  margin-top: 28px;
-  margin-bottom: 24px;
-  font-size: 32px;
+  margin-top: 1.75rem;
+  margin-bottom: 1.5rem;
+  font-size: 2rem;
 }
 
-.la-menta button {
-  background: #FFA200;
-  border-radius: 25px;
-  padding: 8px 32px 8px 32px;
-  border: none;
+.la-menta > button { 
+  padding: 8px 2rem;
   font-weight: 600;
-  font-size: 12px;
+  font-size: 0.75rem;
 }
 
 
 /* LA BANA */
 
 .la-bana {
-  width: 256px;
-  height: 275px;
+  width: 16rem;
+  height: 17.1875rem;
   border-radius: 25px;
   background-color: var(--pink);
   text-align: center;
@@ -115,37 +109,34 @@
 
 .la-bana > img {
   position: relative;
-  top: -55px;
+  top: -3.4375rem;
 }
 
 .la-bana > h4 {
-  margin-top: -35px;
-  margin-bottom: 8px;
-  font-size: 18px;
+  margin-top: -2.1875rem;
+  margin-bottom: 0.5rem;
+  font-size: 1.125rem;
 }
 
 .la-bana > span {
-  width: 180px;
-  height: 60px;
+  width: 11.25rem;
+  height: 3.75rem;
   color: var(--gray);
-  font-size: 14px;
+  font-size: 0.875rem;
   font-weight: 300;
-  line-height: 20px;
+  line-height: 1.25rem;
 }
 
 .la-bana > h3 {
-  margin-top: 28px;
-  margin-bottom: 24px;
-  font-size: 32px;
+  margin-top: 1.75rem;
+  margin-bottom: 1.5rem;
+  font-size: 2rem;
 }
 
-.la-bana button {
-  background: #FFA200;
-  border-radius: 25px;
-  padding: 8px 32px 8px 32px;
-  border: none;
+.la-bana > button {
+  padding: 8px 2rem;
   font-weight: 600;
-  font-size: 12px;
+  font-size: 0.75rem;
 }
 
 
@@ -154,8 +145,8 @@
 
 
 .la-toca {
-  width: 256px;
-  height: 275px;
+  width: 16rem;
+  height: 17.1875rem;
   border-radius: 25px;
   background-color: var(--pink);
   text-align: center;
@@ -163,35 +154,32 @@
 
 .la-toca > img {
   position: relative;
-  top: -55px;
+  top: -3.4375rem;
 }
 
 .la-toca > h4 {
-  margin-top: -35px;
-  margin-bottom: 8px;
-  font-size: 18px;
+  margin-top: -2.1875rem;
+  margin-bottom: 0.5rem;
+  font-size: 1.125rem;
 }
 
 .la-toca > span {
-  width: 180px;
-  height: 60px;
+  width: 11.25rem;
+  height: 3.75rem;
   color: var(--gray);
-  font-size: 14px;
+  font-size: 0.875rem;
   font-weight: 300;
-  line-height: 20px;
+  line-height: 1.25rem;
 }
 
 .la-toca > h3 {
-  margin-top: 28px;
-  margin-bottom: 24px;
-  font-size: 32px;
+  margin-top: 1.75rem;
+  margin-bottom: 1.5rem;
+  font-size: 2rem;
 }
 
-.la-toca button {
-  background: #FFA200;
-  border-radius: 25px;
-  padding: 8px 32px 8px 32px;
-  border: none;
+.la-toca > button {
+  padding: 8px 2rem;
   font-weight: 600;
-  font-size: 12px;
+  font-size: 0.75rem;
 }
