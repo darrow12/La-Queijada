@@ -1,0 +1,83 @@
+#about {
+  display: flex;
+  justify-content: center;
+}
+
+.about {
+  display: grid;
+  width: 70rem;
+  background-color: #FCFCFC;
+  grid-template-columns: 1fr 1fr;
+  grid-template-rows: 14rem 6.25rem 1fr;
+  grid-template-areas: 
+    "image about"
+    "image description"
+    "image pizza"
+}
+
+.about > h2 {
+  grid-area: about;
+  width: 23.125rem;
+  height: 2.8125rem;
+  margin: 9rem 6.25rem 1.5rem 0;
+}
+
+.description {
+  grid-area: description;
+  margin-bottom: 1.5rem;
+  width: 28.625rem;
+  height: 11.375rem;
+  line-height: 1.625rem;
+}
+
+.about > button {
+  grid-area: description;
+  margin: 14.375rem 17.9375rem 3.0625rem 0px;
+  padding: 0.75rem 2.5rem;
+  width: 9.25rem;
+  height: 2.4375rem;
+  font-size: 1rem;
+  font-weight: 600;
+}
+
+.restaurant {
+  grid-area: image;
+  margin: 3.125rem 6rem 3.0625rem 0;
+}
+
+.pizza1 {
+  grid-area: image;
+  position: relative;
+  margin-top: 4.1875rem;
+  margin-left: -5.3125rem;
+}
+
+.circle {
+  grid-area: image;
+  position: relative;
+  margin-top: 4.5rem;
+  margin-left: -5.1875rem;
+}
+
+
+.pizza2 {
+  grid-area: pizza;
+  position: relative;
+  margin-top: 2.6875rem;
+  margin-left: 30.5rem;
+  margin-bottom: -2.766875rem;
+}
+
+.circle2 {
+  grid-area: pizza;
+  position: relative;
+  margin-top: 1.2225rem;
+  margin-left: 27.58625rem;
+}
+
+.tomato {
+  grid-area: about;
+  position: relative;
+  margin-top: -6.9725rem;
+  margin-left: 28.02375rem;
+}
