@@ -18,3 +18,11 @@ h2 {
   margin-top: 8.75rem;
   margin-bottom: 3.125rem;
 }
+
+footer {
+  padding-top: 3.125rem;
+  padding-bottom: 3.125rem;
+  font-size: 0.875rem;
+  text-align: center;
+  font-weight: 400;
+}
