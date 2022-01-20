@@ -1,4 +1,5 @@
 .pizzas-to-buy {
+  position: relative;
   width: 70rem;
   height: 21.875rem;
   display: flex;

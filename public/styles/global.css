@@ -65,3 +65,32 @@ html, body {
   left: -1px;
   filter: drop-shadow(1px 5px 10px rgba(0, 0, 0, 0.24));
 }
+
+.pilchard {
+  position: absolute;
+  margin-left: 13.875rem;
+  margin-bottom: 30.875rem;
+  filter: drop-shadow(4px 2px 6px rgba(0, 0, 0, 0.43));
+}
+
+.mushroom {
+  position: absolute;
+  margin-left: 64.875rem;
+  margin-bottom: 35.875rem;
+  filter: drop-shadow(4px 1px 6px rgba(0, 0, 0, 0.25));
+}
+
+.leaf {
+  position: relative;
+  margin-top: -110px;
+  margin-left: 220px;
+  top: -106px;
+  z-index: -1;
+  filter: drop-shadow(2px 2px 7px rgba(0, 0, 0, 0.45));
+}
+
+.pepper {  
+  position: absolute;
+  margin-top: 25.75rem;
+  margin-left: -9.125rem;
+}
