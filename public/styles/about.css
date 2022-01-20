@@ -6,13 +6,13 @@
 .about {
   display: grid;
   width: 70rem;
-  background-color: #FCFCFC;
+  background-color: #fcfcfc;
   grid-template-columns: 1fr 1fr;
   grid-template-rows: 14rem 6.25rem 1fr;
-  grid-template-areas: 
+  grid-template-areas:
     "image about"
     "image description"
-    "image pizza"
+    "image pizza";
 }
 
 .about > h2 {
@@ -58,7 +58,6 @@
   margin-top: 4.5rem;
   margin-left: -5.1875rem;
 }
-
 
 .pizza2 {
   grid-area: pizza;

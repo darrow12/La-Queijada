@@ -47,13 +47,11 @@
   font-size: 2rem;
 }
 
-.la-cuma > button { 
+.la-cuma > button {
   padding: 8px 2rem;
   font-weight: 600;
   font-size: 0.75rem;
 }
-
-
 
 /* LA MENTA */
 
@@ -91,12 +89,11 @@
   font-size: 2rem;
 }
 
-.la-menta > button { 
+.la-menta > button {
   padding: 8px 2rem;
   font-weight: 600;
   font-size: 0.75rem;
 }
-
 
 /* LA BANA */
 
@@ -140,10 +137,7 @@
   font-size: 0.75rem;
 }
 
-
-
 /* LA TOCA */
-
 
 .la-toca {
   width: 16rem;

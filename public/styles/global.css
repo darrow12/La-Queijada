@@ -5,40 +5,43 @@
 }
 
 :root {
-  --green: #5C913B;
-  --red: #CF3031;
-  --yellow: #FFA200;
-  --pink: #FFD4C9;
-  --white: #FEF6F4;
+  --green: #5c913b;
+  --red: #cf3031;
+  --yellow: #ffa200;
+  --pink: #ffd4c9;
+  --white: #fef6f4;
   --gray: #616161;
-  --dark-gray: #2E2E2E;
+  --dark-gray: #2e2e2e;
 }
 
-
-body, input, textarea, button {
-  font: 300 1rem 'Sora', sans-serif;
+body,
+input,
+textarea,
+button {
+  font: 300 1rem "Sora", sans-serif;
 }
 
 button {
-  background: #FFA200;
+  background: #ffa200;
   border-radius: 25px;
   border: none;
   cursor: pointer;
 }
 
-html, body {
+html,
+body {
   height: 100vh;
 }
 
-@media(max-width: 1080px) {
+@media (max-width: 1080px) {
   html {
-      font-size: 93.75%;
+    font-size: 93.75%;
   }
 }
 
-@media(max-width: 720px) {
+@media (max-width: 720px) {
   html {
-      font-size: 87.5%;
+    font-size: 87.5%;
   }
 }
 
@@ -55,7 +58,6 @@ html, body {
 .green {
   color: var(--green);
 }
-
 
 /* Images around the page */
 
@@ -89,7 +91,7 @@ html, body {
   filter: drop-shadow(2px 2px 7px rgba(0, 0, 0, 0.45));
 }
 
-.pepper {  
+.pepper {
   position: absolute;
   margin-top: 25.75rem;
   margin-left: -9.125rem;
