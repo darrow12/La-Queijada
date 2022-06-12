@@ -19,8 +19,10 @@ A simple landing page from a fictional pizzeria called <strong>La Queijada</stro
     <img src="https://img.shields.io/static/v1?label=Made by&message=Darrow&color=5965e0&labelColor=000000&style=<STYLE>&logo=github" alt="Made by Darrow" title="Made by Darrow">
   </a>
 
-  <img src="https://img.shields.io/static/v1?label=License&message=MIT&color=5965e0&labelColor=000000&style=<STYLE>&logo=" alt="License" title="License">
-
+  <a aria-label="License MIT" href="https://github.com/darrow12/La-Queijada/blob/main/LICENSE">
+    <img src="https://img.shields.io/badge/License-MIT-8257E5?&color=5965e0&labelColor=000000"></img>
+  </a>
+  
   <a href="https://github.com/darrow12/La-Queijada/commits/main">
     <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/darrow12/La-Queijada?label=Last commit&color=5965e0&labelColor=000000">
   </a>
