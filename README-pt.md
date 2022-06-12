@@ -18,8 +18,10 @@ Uma simples landing page de uma pizzaria fictícia chamada <strong>La Queijada</
   <a href="https://github.com/darrow12">
     <img src="https://img.shields.io/static/v1?label=Feito por&message=Darrow&color=5965e0&labelColor=000000&style=<STYLE>&logo=github" alt="Feito por Darrow" title="Feito por Darrow">
   </a>
-
-  <img src="https://img.shields.io/static/v1?label=Licença&message=MIT&color=5965e0&labelColor=000000&style=<STYLE>&logo=" alt="Licença" title="Licença">
+  
+  <a aria-label="Licença MIT" href="https://github.com/darrow12/La-Queijada/blob/main/LICENSE">
+    <img src="https://img.shields.io/badge/Licença-MIT-8257E5?&color=5965e0&labelColor=000000"></img>
+  </a>
 
   <a href="https://github.com/darrow12/La-Queijada/commits/main">
     <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/darrow12/La-Queijada?label=Último commit&color=5965e0&labelColor=000000">
