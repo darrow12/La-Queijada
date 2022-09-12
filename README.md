@@ -33,13 +33,12 @@ A simple landing page from a fictional pizzeria called <strong>La Queijada</stro
 | :placard: Vitrine.Dev |     |
 | -------------  | --- |
 | :sparkles: Nome        | **La Queijada**
-| :label: Tecnologias | HTML, CSS
+| :label: Tecnologias | html, css
 | :rocket: URL         | https://darrow12.github.io/La-Queijada/src/pages/
 | :fire: Desafio     | https://www.figma.com/file/Yb9IBH56g7T1hdIyZ3BMNO/Desafios---Codel%C3%A2ndia?node-id=31037%3A2
 
 <!-- Inserir imagem com a #vitrinedev ao final do link -->
-![La Queijada preview](https://user-images.githubusercontent.com/47289706/188762772-95dea3d4-63a2-462d-8015-203003807cd9.png#vitrinedev)
-
+![](https://user-images.githubusercontent.com/47289706/189650718-abecb61f-27d3-44a0-b901-8effd0251bf1.png#vitrinedev)
 
 <br>
 <br>
