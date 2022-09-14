@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img alt="La Queijada Logo" title="La Queijada Logo" src="./public/images/la-queijada.png" />
+  <img alt="La Queijada Logo" title="La Queijada Logo" src="https://github.com/darrow12/La-Queijada/blob/main/public/images/la-queijada.png" />
 </h1>
 
 <p align="center">
